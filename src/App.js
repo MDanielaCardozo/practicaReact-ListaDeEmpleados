@@ -1,8 +1,7 @@
 import React from "react";
-import { useState } from "react";
 import EmpleadoList from "./components/EmpleadoList";
 import "bootstrap/dist/css/bootstrap.min.css";
-import EmpleadoRow from "./components/EmpleadoRow";
+
 
 const App = () => {
 
